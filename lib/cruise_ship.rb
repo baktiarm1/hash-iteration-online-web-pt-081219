@@ -14,4 +14,3 @@ passengers.each do |suite, name|
   end
 end
  
-select_winner(passengers)
